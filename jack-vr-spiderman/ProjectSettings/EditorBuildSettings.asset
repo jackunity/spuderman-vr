@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/vrtk-spider.unity
+    guid: cc8c0d4e8eba0b64d93a03dc07e12b7c
+  m_configObjects: {}
